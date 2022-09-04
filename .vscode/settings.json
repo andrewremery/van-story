@@ -1,0 +1,13 @@
+{
+	"editor.defaultFormatter": "vscode.html-language-features",
+	"phpcbf.enable": false,
+	"phpcs.autoConfigSearch": false,
+	"phpcs.enable": false,
+	"php-cs-fixer.onSave": false,
+	"php.suggest.basic": false,
+	"php.validate.enable": false,
+	"[scss]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	
+}
