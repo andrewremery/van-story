@@ -10,7 +10,14 @@
         "_sass/base/_base.scss",
         "_sass/base/_fonts.scss",
         "_sass/base/_typography.scss",
-        "_sass/base/_helpers.scss"
+        "_sass/base/_helpers.scss",
+        "_sass/sections/_title.scss",
+        "_sass/sections/_why.scss",
+        "_sass/sections/_steps.scss",
+        "_sass/sections/_about.scss",
+        "_sass/sections/_photos.scss",
+        "_sass/sections/_video.scss",
+        "_sass/sections/_help.scss"
     ],
     "names": [],
     "file": "main.css"
