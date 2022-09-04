@@ -1,0 +1,15 @@
+{
+  "name": "van-story",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "van-story"
+  },
+  "author": "Andrew R Emery",
+  "license": "ISC"
+}
