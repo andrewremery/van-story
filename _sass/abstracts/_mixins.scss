@@ -29,3 +29,22 @@
     @content;
   }
 }
+
+//Breakpoints
+@mixin screen-sm {
+  @media (max-width: 599px) {
+    @content;
+  }
+}
+
+@mixin screen-md {
+  @media (max-width: 768px) {
+    @content;
+  }
+}
+
+@mixin screen-lg {
+  @media (min-width: 1200px) {
+    @content;
+  }
+}
