@@ -1,0 +1,6 @@
+* {
+  font-family: $body-font;
+}
+@include headings {
+  font-family: $heading-font;
+}
