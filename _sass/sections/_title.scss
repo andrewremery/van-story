@@ -1,2 +1,43 @@
 #title {
+  @keyframes pan-zoom {
+    0% {
+      opacity: 0;
+      transform: scale3d(1, 1, 1) translate3d(0, 0px, 0px);
+    }
+
+    5% {
+      opacity: 1;
+    }
+
+    100% {
+      transform: scale3d(1.5, 1.5, 1.5) translate3d(0, -120px, 0px);
+      animation-timing-function: ease-in;
+    }
+  }
+  display: flex;
+  justify-content: center;
+  background: $bg-color;
+  background-image: url("_img/road.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  transform: scale3d(1.5, 1.5, 1.5) translate3d(0, -120px, 0px);
+  animation: pan-zoom 20s 1;
+  perspective: 100%;
+  margin-top: 0;
+  .title-text {
+    margin-top: 30vh;
+    hgroup {
+      background: $overlay;
+      padding: 1rem;
+      font-size: 2rem;
+      h1 {
+        font-size: 2rem;
+        text-align: center;
+      }
+      h2 {
+        font-size: 0.75rem;
+        text-align: left;
+      }
+    }
+  }
 }

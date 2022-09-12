@@ -10,13 +10,15 @@
 </head>
 
 <body>
-	<main>
-		<article id="title">
-			<section>
-				<h1>Lorem ipsum dolor sit amet</h1>
+	<main class="">
+		<article id="title" class="">
+			<section class="title-text">
+				<hgroup>
+					<h1>Journey to Van Life</h1>
+					<h2>By Andrew R Emery</h2>
+				</hgroup>
 			</section>
 			<section>
-				<!--PUT MODEL HERE-->
 			</section>
 		</article>
 
