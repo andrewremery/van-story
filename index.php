@@ -23,13 +23,10 @@
 		</article>
 
 		<article id="why">
-			<h2>Lorem ipsum dolor sit amet</h2>
+				<h2>Why Live in a Van?</h2>
 			<section>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-					et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-					aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-					culpa qui officia deserunt mollit anim id est laborum.</p>
+					<p>I want to buy a plot of degraded land to restore with Permaculture principles. I’m going to create a little homestead. While planning this I realized I don’t know where I want to settle down. I’ve lived in Massachusetts my whole life and have not seen much else. I can say with some certainty I don’t want to drop roots here. Where do I want to? I couldn’t tell you, so I'm going to go see the country to find out where I fit in it.  
+	</p>
 			</section>
 		</article>
 
