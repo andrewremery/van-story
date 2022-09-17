@@ -1,0 +1,19 @@
+@keyframes pan-zoom {
+  0% {
+    opacity: 0;
+    transform: scale3d(1, 1, 1) translate3d(0, 0px, 0px);
+  }
+
+  5% {
+    opacity: 1;
+  }
+
+  100% {
+    transform: scale3d(1.5, 1.5, 1.5) translate3d(0, -120px, 0px);
+    animation-timing-function: ease-in;
+  }
+}
+// Helper classes
+.pause-animation {
+  animation-play-state: paused !important;
+}

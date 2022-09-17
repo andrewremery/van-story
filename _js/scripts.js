@@ -1,4 +1,16 @@
-$(window).on("beforeunload", function () {
-  $(window).scrollTop(0);
+const pushinConfig = {
+  target: document.querySelector(".pushin"),
+  debug: true,
+  scene: {
+    breakpoints: [768, 1440, 1920, 2560],
+
+    inpoints: [200, 300],
+    ratio: [1, 2],
+  },
+  layers: [],
+};
+
+$(document).ready(function () {
+  pushInStart(pushinConfig);
+  window.addEventListener("scroll", (event) => {});
 });
-$(document).ready(function () {});
