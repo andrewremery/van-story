@@ -1,2 +1,17 @@
 #steps {
+  ol {
+    list-style: none;
+    li {
+      display: flex;
+      padding: 0.5rem 0;
+      clear: both;
+      align-items: center;
+      .number {
+        font-family: $heading-font;
+        color: $accent-color;
+        font-size: 3rem;
+        margin-right: 0.5rem;
+      }
+    }
+  }
 }

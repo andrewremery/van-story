@@ -42,62 +42,22 @@
 
 			<article id="steps" class="pushin-layer">
 				<div class="wrapper">
-					<h2>Lorem ipsum dolor sit amet</h2>
+					<h2>Steps to Hitting the Road</h2>
 					<section>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-							labore
-							et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-							nisi ut
-							aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-							esse
-							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-							in
-							culpa qui officia deserunt mollit anim id est laborum.</p>
+						<ol>
+							<li><span class="number">1</span>First I had to get my Real ID, during covid. 3 months, 3
+								trips to the RMV and 2 different birth certificates later I got it.</li>
+							<li><span class="number">2</span>Next I applied for a learners permit and passed the written
+								exam.</li>
+							<li><span class="number">3</span>Then I had to learn to drive. Man do I suck at driving.
+								Took me about 6 months and 3 road exams to pass.</li>
+							<li><span class="number">4</span>After that I got a van. Wooh the auto market was bad! I
+								wanted a new one but there was a 2 year waiting list everywhere I went. </li>
+							<li><span class="number">5</span>Lastly I converted the van. </li>
+						</ol>
+
 					</section>
-					<section>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-							labore
-							et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-							nisi ut
-							aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-							esse
-							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-							in
-							culpa qui officia deserunt mollit anim id est laborum.</p>
-					</section>
-					<section>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-							labore
-							et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-							nisi ut
-							aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-							esse
-							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-							in
-							culpa qui officia deserunt mollit anim id est laborum.</p>
-					</section>
-					<section>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-							labore
-							et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-							nisi ut
-							aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-							esse
-							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-							in
-							culpa qui officia deserunt mollit anim id est laborum.</p>
-					</section>
-					<section>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-							labore
-							et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-							nisi ut
-							aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-							esse
-							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-							in
-							culpa qui officia deserunt mollit anim id est laborum.</p>
-					</section>
+
 				</div>
 			</article>
 
