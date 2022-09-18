@@ -55,7 +55,6 @@
 								wanted a new one but there was a 2 year waiting list everywhere I went. </li>
 							<li><span class="number">5</span>Lastly I converted the van. </li>
 						</ol>
-
 					</section>
 
 				</div>
@@ -63,42 +62,19 @@
 
 			<article id="about" class="pushin-layer">
 				<div class="wrapper">
-					<h2>Lorem ipsum dolor sit amet</h2>
-					<section>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-							labore
-							et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-							nisi ut
-							aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-							esse
-							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-							in
-							culpa qui officia deserunt mollit anim id est laborum.</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-							labore
-							et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-							nisi ut
-							aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-							esse
-							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-							in
-							culpa qui officia deserunt mollit anim id est laborum.</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-							labore
-							et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-							nisi ut
-							aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-							esse
-							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-							in
-							culpa qui officia deserunt mollit anim id est laborum.</p>
-					</section>
-					<section>
-						<figure>
-							<img src="" alt="Image of van here">
+					<h2>About the Van</h2>
+					<div class="grid-12-col">
+						<section class="text">
+							<ul>
+								<li>2019 Ford Transit 250</li>
+								<li>Medium height roof</li>
+								<li>Bought with 50k Miles</li>
+							</ul>
+						</section>
+						<figure class="img">
+							<img src="_img/van.jpg" alt="Image of van here">
 						</figure>
-					</section>
-				</div>
+					</div>
 			</article>
 
 			<article id="photos" class="pushin-layer">
