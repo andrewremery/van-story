@@ -1,2 +1,31 @@
 #help {
+  section {
+    ul {
+      list-style: none;
+      display: grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap: 0.5rem;
+
+      li {
+        grid-column: span 12;
+        padding: 0.5rem 0;
+        font-size: 0.5rem;
+        text-align: center;
+        @include screen-md {
+          grid-column: span 3;
+        }
+        img {
+          width: 100%;
+        }
+        .name {
+          display: block;
+          font-weight: 900;
+          margin: 0.1rem 0;
+        }
+        .title {
+          font-size: 0.4rem;
+        }
+      }
+    }
+  }
 }

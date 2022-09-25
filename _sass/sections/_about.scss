@@ -1,6 +1,7 @@
 #about {
   .text {
     grid-column: span 12;
+    grid-row: span 12;
     @include screen-md {
       grid-column: span 4;
     }
@@ -12,6 +13,7 @@
     }
   }
   .img {
+    grid-row: span 12;
     @include screen-md {
       grid-column: span 8;
     }

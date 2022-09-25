@@ -1,5 +1,10 @@
+.flex {
+  display: block;
+  @include screen-md {
+    display: flex;
+  }
+}
 .grid-12-col {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
-  grid-template-rows: 1fr;
 }

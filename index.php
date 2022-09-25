@@ -99,79 +99,74 @@
 
 			<article id="help" class="pushin-layer">
 				<div class="wrapper">
-					<h2>Lorem ipsum dolor sit amet</h2>
-					<section>
-						<h3>Lorem ipsum dolor sit amet</h3>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-					</section>
-					<section>
-						<h3>Lorem ipsum dolor sit amet</h3>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-					</section>
-					<section>
-						<h3>Lorem ipsum dolor sit amet</h3>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-					</section>
-					<section>
-						<h3>Lorem ipsum dolor sit amet</h3>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-						<li><img src="" alt="image of person here"></li>
-					</section>
+					<h2>The Help</h2>
+					<div class="flex">
+						<section>
+							<h3>Van Help</h3>
+							<ul class="grid-12-col van-help">
+								<li>
+									<img src="_img/help/eric.jpg" alt="Eric Trehy">
+									<span class="name">Eric Trehy</span>
+									<span class="title">Co Founder</span>
+								</li>
+								<li>
+									<img src="_img/placeholder-person.png" alt="Sue Trehy">
+									<span class="name">Sue Trehy</span>
+									<span class="title">Director of QA</span>
+								</li>
+								<li>
+									<img src="_img/help/lisa.jpg" alt="Lisa Sardelis">
+									<span class="name">Lisa Sardelis</span>
+									<span class="title">Chief Floor Cutter</span>
+								</li>
+							</ul>
+						</section>
+						<section>
+							<h3>Emotional Support</h3>
+							<ul class="grid-12-col emotional-support">
+								<li>
+									<img src="_img/help/tom.jpg" alt="Tom Haapalainen">
+									<span class="name">Tom Haapalainen</span>
+									<span class="title">Brother & Lodging Donation</span>
+								</li>
+								<li>
+									<img src="_img/help/dana.jpg" alt="Dana Well">
+									<span class="name">Dana Wells</span>
+									<span class="title">Lodging Donation</span>
+								</li>
+								<li>
+									<img src="_img/help/belinda.jpg" alt="Belinda Emery">
+									<span class="name">Belinda Emery</span>
+									<span class="title">Mother Lodging & Donation</span>
+								</li>
+								<li>
+									<img src="_img/help/dre.jpg" alt="Andrei Martin">
+									<span class="name">Andrei Martin</span>
+									<span class="title">Boy Friend</span>
+								</li>
+								<li>
+									<img src="_img/help/elaine.jpg" alt="Elaine Martin">
+									<span class="name">Elaine Martin</span>
+									<span class="title">Professional Tea Spiller</span>
+								</li>
+								<li>
+									<img src="_img/help/eric.jpg" alt="Eric Trehy">
+									<span class="name">Eric Trehy</span>
+									<span class="title">Boy Friend & Lodging Donation</span>
+								</li>
+								<li>
+									<img src="_img/placeholder-person.png" alt="Sue Trehy">
+									<span class="name">Sue Trehy</span>
+									<span class="title">Lodging Donation</span>
+								</li>
+								<li>
+									<img src="_img/help/will.jpg" alt="William Hammel">
+									<span class="name">William Hammel</span>
+									<span class="title">Friend</span>
+								</li>
+							</ul>
+						</section>
+					</div>
 				</div>
 			</article>
 		</main>
