@@ -3,11 +3,11 @@
   "abstracts/layout", "abstracts/animations";
 
 // 2. Vendors
-@import "vendors/normalize", "vendors/pushin";
+@import "vendors/normalize", "vendors/pushin", "vendors/jquery-ui";
 
 // 3. Base stuff
 @import "base/base", "base/fonts", "base/typography", "base/helpers";
 
 // 4. Layout-related sections
 @import "sections/title", "sections/why", "sections/steps", "sections/about",
-  "sections/photos", "sections/video", "sections/help";
+  "sections/photos", "sections/video", "sections/help", "sections/faq";

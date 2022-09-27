@@ -13,4 +13,10 @@ const pushinConfig = {
 $(document).ready(function () {
   pushInStart(pushinConfig);
   window.addEventListener("scroll", (event) => {});
+
+  $(".accordion").accordion({
+    active: 2,
+    collapsible: true,
+    animate: 200,
+  });
 });

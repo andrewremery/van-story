@@ -1,0 +1,17 @@
+#faq {
+  .accordion {
+    margin: 1rem;
+    .ui-accordion-header {
+      font-family: $heading-font;
+      color: $heading-color;
+      border: none;
+      &.ui-accordion-header-active {
+        background: $accent-color;
+        color: #fff;
+      }
+    }
+    .ui-accordion-content {
+      font-family: $body-font;
+    }
+  }
+}

@@ -169,10 +169,97 @@
 					</div>
 				</div>
 			</article>
+			<article id="faq" class="pushin-layer">
+				<div class="wrapper">
+					<h2>FAQ</h2>
+					<div class="flex">
+						<section>
+							<div class="accordion">
+								<h3>How much did the van cost?</h3>
+								<div>
+									<ul>
+										<li><strong>Van:</strong> XXX</li>
+										<li><strong>Conversion:</strong> XXX</li>
+										<li><strong>Miscellaneous:</strong> XXX</li>
+									</ul>
+								</div>
+							</div>
+
+							<div class="accordion">
+								<h3>How do you fit all your stuff?</h3>
+								<div>
+									<p>I try to live minimally. Living in a small space forces me to really think about
+										every
+										item I have. I believe this is a partial solution to the hedonic treadmill
+										promoted by
+										consumerism.</p>
+									<p>In the process of moving to the van I lived with a variety of family members. I
+										went from
+										a shared apartment, to a large closet to a couch. Each step made me have to
+										think about
+										what possessions I really want. Plus it was a gradual change! Going from my
+										aunt’s couch
+										to a van felt like moving into a mansion. </p>
+								</div>
+							</div>
+
+							<div class="accordion">
+								<h3>Are you homeless?</h3>
+								<div>
+									<p>Debatably. Depends how you want to define the term. I use my aunt's address on
+										paperwork
+										and route my mail to a PO box in South Dakota to avoid being legally homeless.
+									</p>
+								</div>
+							</div>
+
+							<div class="accordion">
+								<h3>How do you work remotely? </h3>
+								<div>
+									<p>Wifi hotspot. It’s a wonderful time to be a live!</p>
+								</div>
+							</div>
+
+							<div class="accordion">
+								<h3>Are you protesting modernity / are you promoting van living? </h3>
+								<div>
+									<p>Nah this is just something I wanted to do. There’s pros and cons to living this
+										way. Do
+										it if you want to.</p>
+								</div>
+							</div>
+						</section>
+						<section>
+							<div class="accordion">
+								<h3>You must be so green?</h3>
+								<div>
+									<p>I try to be as green as possible. If I had to guess living this way has worsened
+										my
+										ecological footprint.</p>
+									<p><em>But you live off solar I hear you say</em> Yes I do. However: I use
+										exponentially
+										more gas, have less opportunity to recycle and compost and utilize big very non
+										green
+										corporations more for my needs.</p>
+								</div>
+							</div>
+
+							<div class="accordion">
+								<h3>How long did it take to convert the van?</h3>
+								<div>
+									<p>Eh 3 months maybe? The whole process from getting my license to hitting the road
+										took
+										about a year. Fall 2021 to Fall 2022</p>
+								</div>
+							</div>
+						</section>
+					</div>
+			</article>
 		</main>
 	</div>
 	<script src="_js/_vendors/jquery.js"></script>
 	<script src="_js/_vendors/pushin.js"></script>
+	<script src="_js/_vendors/jquery-ui.js"></script>
 	<script src="_js/scripts.js"></script>
 </body>
 
