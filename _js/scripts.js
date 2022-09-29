@@ -14,6 +14,12 @@ $(document).ready(function () {
   pushInStart(pushinConfig);
   window.addEventListener("scroll", (event) => {});
 
+  animDelay = 0;
+  $("#help li").each(function () {
+    $(this).css("animation-delay", animDelay + "ms");
+    animDelay = animDelay + 100;
+  });
+
   $(".accordion").accordion({
     active: 2,
     collapsible: true,

@@ -11,6 +11,7 @@
         padding: 0.5rem 0;
         font-size: 0.5rem;
         text-align: center;
+        animation: color-fade 2000ms 1;
         @include screen-md {
           grid-column: span 3;
         }

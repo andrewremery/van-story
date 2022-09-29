@@ -13,6 +13,22 @@
     animation-timing-function: ease-in;
   }
 }
+
+@keyframes color-fade {
+  0% {
+    opacity: 1;
+    filter: grayscale(100%);
+    filter: contrast(0);
+    filter: brightness(20%);
+  }
+
+  100% {
+    opacity: 1;
+    filter: grayscale(0);
+    filter: contrast(100%);
+    filter: brightness(100%);
+  }
+}
 // Helper classes
 .pause-animation {
   animation-play-state: paused !important;
