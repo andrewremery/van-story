@@ -243,6 +243,13 @@
 										about a year. Fall 2021 to Fall 2022</p>
 								</div>
 							</div>
+
+							<div class="accordion">
+								<h3>Are you going to start a blog.</h3>
+								<div>
+									<p>I have no desire to start a blog. I do have a project where I capture my initial impression of each state in a photo poem combination. </p>
+								</div>
+							</div>
 						</section>
 					</div>
 			</article>
