@@ -87,16 +87,7 @@
 					<img src="" alt="Image of van here">
 				</div>
 			</article>
-
-			<article id="video" class="pushin-layer">
-				<div class="wrapper">
-					<h2>Lorem ipsum dolor sit amet</h2>
-					<section>
-						<!--VIDEO HERE-->
-					</section>
-				</div>
-			</article>
-
+			
 			<article id="help" class="pushin-layer">
 				<div class="wrapper">
 					<h2>The Help</h2>
