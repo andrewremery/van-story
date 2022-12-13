@@ -12,6 +12,8 @@
     }
     .ui-accordion-content {
       font-family: $body-font;
+      max-height: 200px;
+      font-size: .5rem;
     }
   }
 }
